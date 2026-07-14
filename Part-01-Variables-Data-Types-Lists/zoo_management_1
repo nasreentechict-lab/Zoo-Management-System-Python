@@ -1,0 +1,40 @@
+# Zoo Name (String Data Type)
+zoo_name = "Sudan Wildlife Park"
+
+print(zoo_name)
+
+
+# Animal Information
+# String
+animal_name = "Semba"
+
+# Integer
+animal_age = 5
+
+# Float
+animal_weight = 190.5
+
+# Boolean
+is_healthy = True
+
+
+# Print Animal Information
+print("Animal Name:", animal_name)
+print("Age:", animal_age)
+print("Weight:", animal_weight)
+print("Healthy:", is_healthy)
+
+
+# Animals List
+animals = ["Lion", "Elephant", "Bird"]
+
+# Display list before adding a new animal
+print("Before add:", animals)
+
+
+# Add new animal to the list
+animals.append("Tiger")
+
+
+# Display list after adding a new animal
+print("After add:", animals)
